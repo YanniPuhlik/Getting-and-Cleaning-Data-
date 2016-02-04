@@ -57,9 +57,8 @@ Transformation and Work Performed to Clean-up the Data
   18. Data set -- replaced by -- Descriptive variable names
   19. Conducted names check
   20. <em>Project step #5</em> Created a second, independent tidy data set and output it
-  21. Conducted Data Reshaping with (reshape2) and (melt)
-  22. Completed with library(knitr)
-  23. Created Codebook with knit2html(input="run_analysis.R", output="codebook.Rmd")
+  21. Completed with library(knitr)
+  22. Created Codebook with knit2html(input="run_analysis.R", output="codebook.Rmd")
 
 License:
 ========
