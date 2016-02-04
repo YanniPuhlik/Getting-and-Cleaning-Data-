@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-
+# Getting and Cleaning Data
 Course Project
 
 This repository hosts the R code and documentation files for the course project of the The Data Scientist’s Toolbox created by Johns Hopkins University 
