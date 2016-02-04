@@ -16,5 +16,5 @@ Dataset name <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 
  <strong>tidydata.txt:</strong> is the output of the 5th step, i.e. the tidy data set
  
-# Reading tidy data set
+
 
